@@ -1,0 +1,11 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "MIMode": "gdb",
+            "miDebuggerPath": "/usr/bin",
+            "cwd": "/home/andrewcapon/ModDuo/mod-host",
+            "binaryPath": "/home/andrewcapon/ModDuo/mod-host/mod-host",
+            "binaryArgs": ["-n", "-p",  "5555",  "-f",  "5556"]
+        }
+    ]
+}
